@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T12:35:25.293Z" agent="5.0 (X11)" etag="uVaCyHS70_KGUlqjZ5Lv" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T12:47:18.498Z" agent="5.0 (X11)" etag="3H-wi5MQnRk9ZsFEZCZx" version="17.1.2" type="github">
   <diagram id="fO5Qb9ErJ3uyesGqFBVS" name="Page-1">
     <mxGraphModel dx="1406" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,14 +7,47 @@
         <mxCell id="k9ma9fuy6LnGqLFCoPdS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9ma9fuy6LnGqLFCoPdS-1" target="k9ma9fuy6LnGqLFCoPdS-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9ma9fuy6LnGqLFCoPdS-1" value="Pop!_OS(Crient&amp;amp;Server)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="50" width="165" height="60" as="geometry" />
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-1" value="&lt;div&gt;PC(Pop!_)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="502" y="40" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k9ma9fuy6LnGqLFCoPdS-2" value="&lt;div&gt;Ubuntu(Host)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9ma9fuy6LnGqLFCoPdS-2" target="k9ma9fuy6LnGqLFCoPdS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9ma9fuy6LnGqLFCoPdS-2" target="k9ma9fuy6LnGqLFCoPdS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9ma9fuy6LnGqLFCoPdS-2" target="k9ma9fuy6LnGqLFCoPdS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k9ma9fuy6LnGqLFCoPdS-2" target="k9ma9fuy6LnGqLFCoPdS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k9ma9fuy6LnGqLFCoPdS-2" target="k9ma9fuy6LnGqLFCoPdS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-2" value="Vagrant(Ubuntu)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="525" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k9ma9fuy6LnGqLFCoPdS-4" value="&lt;div&gt;access&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="585" y="130" width="60" height="30" as="geometry" />
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-5" value="Pyenv" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-6" value="&lt;div&gt;Node.js&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-12" value="Vim" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="730" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-14" value="Jupyter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-19" value="CUI LiveShare(?)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-21" value="&lt;div&gt;Remote&lt;/div&gt;&lt;div&gt;access&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-24" value="editor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
