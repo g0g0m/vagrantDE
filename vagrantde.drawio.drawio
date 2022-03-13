@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T12:47:18.498Z" agent="5.0 (X11)" etag="3H-wi5MQnRk9ZsFEZCZx" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T12:48:17.442Z" agent="5.0 (X11)" etag="sjxEPSNz3o4ATLKqFWxq" version="17.1.2" type="github">
   <diagram id="fO5Qb9ErJ3uyesGqFBVS" name="Page-1">
     <mxGraphModel dx="1406" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="k9ma9fuy6LnGqLFCoPdS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k9ma9fuy6LnGqLFCoPdS-2" target="k9ma9fuy6LnGqLFCoPdS-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k9ma9fuy6LnGqLFCoPdS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k9ma9fuy6LnGqLFCoPdS-2" target="k9ma9fuy6LnGqLFCoPdS-19">
+        <mxCell id="k9ma9fuy6LnGqLFCoPdS-20" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;rounded=0;strokeWidth=3;" edge="1" parent="1" source="k9ma9fuy6LnGqLFCoPdS-2" target="k9ma9fuy6LnGqLFCoPdS-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k9ma9fuy6LnGqLFCoPdS-2" value="Vagrant(Ubuntu)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
